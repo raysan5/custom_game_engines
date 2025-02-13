@@ -122,7 +122,7 @@ Here we have some really small studios that also choose to develop a custom engi
 | [Nuke Nine](http://nukenine.com/)                                 |   3 | *custom engine*  | [Vagante](https://store.steampowered.com/app/323220/Vagante) (2019) |
 | [Mega Crit Games](https://www.megacrit.com/)                      |   3 | *custom engine*  | [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire) (2017) |
 
-## One-man custom engines
+## One-person custom engines
 
 Games developed by 1-2 people with custom game engines, engines mostly coded by one person! Respect.
 
