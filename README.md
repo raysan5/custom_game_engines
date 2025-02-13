@@ -10,10 +10,11 @@ Nowadays lots of companies choose engines like [Unreal](https://www.unrealengine
 
 Some points to consider:
 
- - The line between what can be considered an engine or a framework or just a library could be blurry. Not all engines have a set of tooling for easy interaction 
+ - The line between what can be considered an engine or a framework or just a library could be blurry. Note that not all engines have a set of tooling for easy interaction!
  - Most of the engines listed here have been developed along the years with multiple iterations and multiple videogames, those engines have gone through several versions or even complete (or semi-complete) rewrites from scratch, with a consequent engine name change. Also, important to note, most of those engines use numerous middleware for specific functionalities (Platform, Physics, Network, Vegetation, UI, Rendering, Audio...).
  - About the employees count, take it with a grain of salt, it was updated with aproximate numbers from 2020 (checked on the companies websites, Wikipedia or LinkedIn).
- - 
+
+
 ## AAA Engines: The BIG Companies
 
 Below list is for **very big corporations**, sometimes with complex corporate structures with several divisions (not only focused on videogames) and various studios/subsidiaries developing games. Some of those companies work with multiple engines, not only custom ones but also licensed ones.
