@@ -36,7 +36,7 @@ Below list is for **very big corporations**, sometimes with complex corporate st
 | [Konami](https://en.wikipedia.org/wiki/Konami)            | +10000    | ~30 | [Fox Engine](https://en.wikipedia.org/wiki/Fox_Engine)                | Pro Evolution Soccer series, Metal Gear Solid V |
 | [Square Enix](https://en.wikipedia.org/wiki/Square_Enix)  | +4600     | ~18 | [Luminous Studio](https://en.wikipedia.org/wiki/Luminous_Studio)      | Final Fantasy XV     | 
 | [Nintendo](https://en.wikipedia.org/wiki/Nintendo)        | +6100     | ~8  | *custom engine(s)*      | Zelda: BOTW, Mario Odyssey                   |
-| [Riot Games](https://en.wikipedia.org/wiki/Riot_Games)    | ~2500     | ~3  | *custom engine*         | League of Legends |
+| [Riot Games](https://en.wikipedia.org/wiki/Riot_Games)    | ~2500     | ~3  | [Hero Engine](https://en.wikipedia.org/wiki/HeroEngine) (2010+), *custom engine (2009)*         | League of Legends |
 | [Rockstar](https://en.wikipedia.org/wiki/Rockstar_Games)  | +2000     | ~9  | [RAGE engine](https://en.wikipedia.org/wiki/Rockstar_Advanced_Game_Engine) | GTA V, Red Dead Redemption 2 |
 | [CD Projekt](https://en.wikipedia.org/wiki/CD_Projekt)    | +1100     | ~4  | [REDEngine 3](https://witcher.fandom.com/wiki/REDengine)          | The Witcher 3 |
 | [Epic](https://en.wikipedia.org/wiki/Epic_Games)          | +1000     | ~11 | [Unreal Engine 4](https://en.wikipedia.org/wiki/Unreal_Engine)        | Fortnite |
