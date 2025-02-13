@@ -1,6 +1,6 @@
 # CUSTOM GAME ENGINES
 
-A list of custom game engines. This list is based on a 2020 article: [custom_game_engines_small_study](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74)
+A comprehensive list of custom game engines. This list is based on a 2020 article: [custom_game_engines_small_study](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74)
 
 The list has been moved to a custom repo to allow contributors to improve it! **Additions and improvements are really welcome!!!**
 
