@@ -87,7 +87,7 @@ Here we have the medium-small companies that decided to create their custom tech
 
 ## AA Engines: Small-size Studios (Indie Studios)
 
-Here we have some really small studios that also choose to develop a custom engine for their games. Note that most of those engines rely on other libraries/frameworks for certain parts of the game, the common choices we find are [SDL](https://www.libsdl.org) (cross-platform graphics/input), [OGRE](https://www.ogre3d.org) (rendering engine), [MonoGame](https://www.monogame.net) (cross-platform game framework, also relyes on [SDL, SharpDX, OpenTK, OpenAL-Soft...](https://github.com/MonoGame/MonoGame.Dependencies)).
+Here we have some really small studios that also choose to develop a custom engine for their games. Note that most of those engines rely on other libraries/frameworks for certain parts of the game, the common choices we find are [SDL](https://www.libsdl.org) (cross-platform graphics/input), [OGRE](https://www.ogre3d.org) (rendering engine), [MonoGame](https://www.monogame.net) (cross-platform game framework, also relies on [SDL, SharpDX, OpenTK, OpenAL-Soft...](https://github.com/MonoGame/MonoGame.Dependencies)).
 
 | Company  | Employees | Engine   |   Notable Games   |
 | --- | :---: | :---: | --- |
