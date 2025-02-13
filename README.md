@@ -116,6 +116,7 @@ Here we have some really small studios that also choose to develop a custom engi
 | [Lo-fi Games](https://lofigames.com) (Chris Hunt)                 |   6 | *OGRE-based*     | [Kenshi](https://store.steampowered.com/app/233860/Kenshi) (2018) |
 | [D-Pad Studio](http://www.dpadstudio.com)                         |   6 | *MonoGame-based* | [Owlboy](https://store.steampowered.com/app/115800/Owlboy) (2016) |
 | [BitKid, Inc.](https://bitkidgames.com)                           |   6 | *MonoGame-based* | [CHASM](https://store.steampowered.com/app/312200/Chasm) (2020) |
+| [Nolla Games](https://nollagames.com/)                            |  ~6 | [Falling Everything Engine](https://nollagames.com/fallingeverything/) | [Noita](https://noitagame.com/) (2020) |
 | [Double Damage Games](http://doubledamagegames.com)               |   5 | *OGRE-based*     | [Rebel Galaxy Outlaw](https://www.epicgames.com/store/en-US/product/rebel-galaxy-outlaw/home) (2019), [Rebel Galaxy](https://store.steampowered.com/app/290300/Rebel_Galaxy) (2015) |
 | [Almost Human Games](http://www.grimrock.net)                     |   4 | *custom engine*  | [Legend of Grimrock](https://store.steampowered.com/app/207170/Legend_of_Grimrock) (2012), [Legend of Grimrock 2](https://store.steampowered.com/app/251730/Legend_of_Grimrock_2) (2014) |
 | [Wolfire Games](https://en.wikipedia.org/wiki/Wolfire_Games)      |   4 | Phoenix Engine   | [Overgrowth](https://store.steampowered.com/app/25000/Overgrowth) (2017) |
