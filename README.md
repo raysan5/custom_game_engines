@@ -162,6 +162,7 @@ Games developed by 1-2 people with custom game engines, engines mostly coded by 
 | [Lunar Ray Games](http://www.lunarraygames.com/) (Bodie Lee) | 1 | *custom engine* | [Timespinner](https://store.steampowered.com/app/368620/Timespinner) (2018) |
 | [sebagamesdev](https://sebagamesdev.github.io/) | 1 | *custom engine* | [Fight And Rage](https://store.steampowered.com/app/674520/FightN_Rage) (2017) |
 | Loïc Dansart                  | 1 | *custom engine* | [Melody's Escape](https://store.steampowered.com/app/270210/Melodys_Escape) (2016) |
+| Billy Basso                   | 1 | [*custom engine*](https://www.gamedeveloper.com/art/creature-feature-the-surreal-pixel-art-and-animation-of-animal-well) | [Animal Well](https://store.steampowered.com/app/813230/ANIMAL_WELL/) (2024) |
 
 `TODO: Add below entries to the above lists`
 
