@@ -163,6 +163,7 @@ Games developed by 1-2 people with custom game engines, engines mostly coded by 
 | [sebagamesdev](https://sebagamesdev.github.io/) | 1 | *custom engine* | [Fight And Rage](https://store.steampowered.com/app/674520/FightN_Rage) (2017) |
 | Loïc Dansart                  | 1 | *custom engine* | [Melody's Escape](https://store.steampowered.com/app/270210/Melodys_Escape) (2016) |
 | Billy Basso                   | 1 | [*custom engine*](https://www.gamedeveloper.com/art/creature-feature-the-surreal-pixel-art-and-animation-of-animal-well) | [Animal Well](https://store.steampowered.com/app/813230/ANIMAL_WELL/) (2024) |
+| [Vittorio Romeo](https://vittorioromeo.com) | 1 | *custom engine* [1](https://github.com/SuperV1234/SSVOpenHexagon/), [2](https://github.com/vittorioromeo/VRSFML/tree/bubble_idle) | [Open Hexagon](https://store.steampowered.com/app/1358090/Open_Hexagon/) (2021), [BubbleByte](https://store.steampowered.com/app/3499760/BubbleByte/) (2025)  |
 
 `TODO: Add below entries to the above lists`
 
