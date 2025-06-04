@@ -37,7 +37,7 @@ Below list is for **very big corporations**, sometimes with complex corporate st
 | [Square Enix](https://en.wikipedia.org/wiki/Square_Enix)  | +4600     | ~18 | [Luminous Studio](https://en.wikipedia.org/wiki/Luminous_Studio)      | Final Fantasy XV     | 
 | [Nintendo](https://en.wikipedia.org/wiki/Nintendo)        | +6100     | ~8  | *custom engine(s)*      | Zelda: BOTW, Mario Odyssey                   |
 | [Riot Games](https://en.wikipedia.org/wiki/Riot_Games)    | ~2500     | ~3  | [Hero Engine](https://en.wikipedia.org/wiki/HeroEngine) (2010+), *custom engine (2009)*         | League of Legends |
-| [Rockstar](https://en.wikipedia.org/wiki/Rockstar_Games)  | +2000     | ~9  | [RAGE engine](https://en.wikipedia.org/wiki/Rockstar_Advanced_Game_Engine) | GTA V, Red  Redemption 2 |
+| [Rockstar](https://en.wikipedia.org/wiki/Rockstar_Games)  | +2000     | ~9  | [RAGE engine](https://en.wikipedia.org/wiki/Rockstar_Advanced_Game_Engine) | GTA V, Red Dead Redemption 2 |
 | [CD Projekt](https://en.wikipedia.org/wiki/CD_Projekt)    | +1100     | ~4  | [REDEngine 3](https://witcher.fandom.com/wiki/REDengine)          | The Witcher 3 |
 | [Epic](https://en.wikipedia.org/wiki/Epic_Games)          | +1000     | ~11 | [Unreal Engine 4](https://en.wikipedia.org/wiki/Unreal_Engine)        | Fortnite |
 
@@ -110,7 +110,7 @@ Here we have some really small studios that also choose to develop a custom engi
 | [Thekla Inc.](http://the-witness.net/news) (Jonathan Blow)        | ~10 | [*custom engine*](https://en.wikipedia.org/wiki/The_Witness_(2016_video_game)#Funding_and_development) | [The Witness](https://store.steampowered.com/app/210970/The_Witness) (2016) |
 | [Numantian Games](http://www.numantiangames.com/)                 | ~10 | *custom engine*  | [They Are Billions](https://store.steampowered.com/app/644930/They_Are_Billions) (2019), [Lords of Xulimia](https://store.steampowered.com/app/296570/Lords_of_Xulima) (2014) |
 | [Nysko Games Ltd.](https://www.nyskogames.com/)                   | ~10 | *custom engine*  | [The Dwarves of Glistenveld](https://store.steampowered.com/app/805520/The_Dwarves_of_Glistenveld) (2019) |
-| [Passtech Games](https://www.passtechgames.com/)                  |  10 | OEngine | [Curse of the  Gods](https://store.steampowered.com/app/1123770/Curse_of_the__Gods) (2020) |
+| [Passtech Games](https://www.passtechgames.com/)                  |  10 | OEngine | [Curse of the Dead  the  Gods](https://store.steampowered.com/app/1123770/Curse_of_the_Dead_Gods) (2020) |
 | [Terrible Toybox](https://thimbleweedpark.com) (Ron Gilbert)      |   9 | [*custom engine*](https://en.wikipedia.org/wiki/Thimbleweed_Park#Game_engine_and_tools) (SDL) | [Thimbleweed Park](https://store.steampowered.com/app/569860/Thimbleweed_Park) (2017) | 
 | [Motion Twin](https://motiontwin.com/)                            |   8 | [Heaps.io](https://heaps.io/) | [Dead Cells](https://dead-cells.com/) (2018)
 | [Radical Fish Games](https://www.radicalfishgames.com/)           |   8 | *Impact-based (JS)* | [CrossCode](https://store.steampowered.com/app/368340/CrossCode/) (2018) |
