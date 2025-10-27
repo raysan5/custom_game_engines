@@ -110,8 +110,9 @@ Here we have some really small studios that also choose to develop a custom engi
 | [Thekla Inc.](http://the-witness.net/news) (Jonathan Blow)        | ~10 | [*custom engine*](https://en.wikipedia.org/wiki/The_Witness_(2016_video_game)#Funding_and_development) | [The Witness](https://store.steampowered.com/app/210970/The_Witness) (2016) |
 | [Numantian Games](http://www.numantiangames.com/)                 | ~10 | *custom engine*  | [They Are Billions](https://store.steampowered.com/app/644930/They_Are_Billions) (2019), [Lords of Xulimia](https://store.steampowered.com/app/296570/Lords_of_Xulima) (2014) |
 | [Nysko Games Ltd.](https://www.nyskogames.com/)                   | ~10 | *custom engine*  | [The Dwarves of Glistenveld](https://store.steampowered.com/app/805520/The_Dwarves_of_Glistenveld) (2019) |
-| [Passtech Games](https://www.passtechgames.com/)                  |  10 | OEngine | [Curse of the Dead Gods](https://store.steampowered.com/app/1123770/Curse_of_the_Dead_Gods) (2020) |
+| [Passtech Games](https://www.passtechgames.com/)                  |  10 | OEngine | [Curse of the Dead  the  Gods](https://store.steampowered.com/app/1123770/Curse_of_the_Dead_Gods) (2020) |
 | [Terrible Toybox](https://thimbleweedpark.com) (Ron Gilbert)      |   9 | [*custom engine*](https://en.wikipedia.org/wiki/Thimbleweed_Park#Game_engine_and_tools) (SDL) | [Thimbleweed Park](https://store.steampowered.com/app/569860/Thimbleweed_Park) (2017) | 
+| [Motion Twin](https://motiontwin.com/)                            |   8 | [Heaps.io](https://heaps.io/) | [Dead Cells](https://dead-cells.com/) (2018)
 | [Radical Fish Games](https://www.radicalfishgames.com/)           |   8 | *Impact-based (JS)* | [CrossCode](https://store.steampowered.com/app/368340/CrossCode/) (2018) |
 | [Maddy Makes Games](http://www.mattmakesgames.com) (Madeline Thorson)  |  ~7 | *MonoGame-based* | [Celeste](https://store.steampowered.com/app/504230/Celeste) (2018), [TowerFall Ascension](https://store.steampowered.com/app/251470/TowerFall_Ascension) (2014) |
 | [Coilworks](https://coilworks.se)                                 |  ~7 | *custom engine*  | [Super Cloudbuilt](https://store.steampowered.com/app/463700/Super_Cloudbuilt) (2017), [Cloudbuilt](https://store.steampowered.com/app/262390/Cloudbuilt) (2014) |
@@ -133,6 +134,7 @@ Games developed by 1-2 people with custom game engines, engines mostly coded by 
 
 | Company/Developer  | People | Engine | Notable Game(s) |
 | --- | :---: | :---: | --- |
+| [Bay 12 Games](https://bay12games.com/) | 2[*](## "Putnam was also brought on to help with the steam release") | *custom engine* | [Dwarf Fortress](https://bay12games.com/dwarves/) (2006)
 | [Lizardcube](https://www.lizardcube.com) (Ben Fiquet and Omar Cornut) | 2 | *custom engine* | [Wonder Boy: The Dragon's Trap](https://store.steampowered.com/app/543260/Wonder_Boy_The_Dragons_Trap) (2017) |
 | Guard Crush Games (Jordi Asensio and Cyrille Lagarigue) | 2 | [*MonoGame-based*](https://twitter.com/Guard_Crush/status/1208050181062692867) | [Streets of Rage 4]() |
 | [Pocketwatch Games](http://www.pocketwatchgames.com) (Andy Schatz) | 2? | *MonoGame-based* | [Tooth and Tail](https://store.steampowered.com/app/286000/Tooth_and_Tail) (2017) |
@@ -169,6 +171,8 @@ Games developed by 1-2 people with custom game engines, engines mostly coded by 
 | Billy Basso                   | 1 | [*custom engine*](https://www.gamedeveloper.com/art/creature-feature-the-surreal-pixel-art-and-animation-of-animal-well) | [Animal Well](https://store.steampowered.com/app/813230/ANIMAL_WELL/) (2024) |
 | [Jonathan Blow](https://en.wikipedia.org/wiki/Jonathan_Blow) | 1 | *XNA-based* | [Braid](https://store.steampowered.com/app/26800/Braid) (2009) |
 | [Vittorio Romeo](https://vittorioromeo.com) | 1 | *custom engine* [1](https://github.com/SuperV1234/SSVOpenHexagon/), [2](https://github.com/vittorioromeo/VRSFML/tree/bubble_idle) | [Open Hexagon](https://store.steampowered.com/app/1358090/Open_Hexagon/) (2021), [BubbleByte](https://store.steampowered.com/app/3499760/BubbleByte/) (2025)  |
+| LocalThunk | 1 | *LÖVE-based* | [Balatro](https://www.playbalatro.com/) (2024) |
+| ThinMatrix | 1 | *custom engine* | [Equilinox](https://equilinox.com/) (2018) |
 
 `TODO: Add below entries to the above lists`
 
