@@ -161,7 +161,7 @@ Games developed by 1-2 people with custom game engines, engines mostly coded by 
 | Benjamin Porter               | 1 (8 years) | *SFML-based* | [MoonQuest](https://store.steampowered.com/app/511540/MoonQuest) (2020) |
 | Randall Foster                | 1 (7 years) | *custom engine* | [Kid Baby: Starchild](https://store.steampowered.com/app/559630/Kid_Baby_Starchild) (2019) | 
 | [Dennis Gustafsson](http://www.tuxedolabs.com) | 1 | *custom engine* | [Teardown](https://store.steampowered.com/app/1167630/Teardown) (2020) |
-| [Christian Whitehead](https://en.wikipedia.org/wiki/Christian_Whitehead) | 1 | [Star Engine](https://en.wikipedia.org/wiki/Star_Engine) | [Sonic Mania](https://store.steampowered.com/app/584400/Sonic_Mania) (2017) |
+| [Christian Whitehead](https://en.wikipedia.org/wiki/Christian_Whitehead) | 1 | [Retro Engine](https://eveningstar.studio/tech.html) | [Sonic Mania](https://store.steampowered.com/app/584400/Sonic_Mania) (2017), [Penny’s Big Breakaway](https://store.steampowered.com/app/1955230/Pennys_Big_Breakaway) (2024) |
 | [Positech Games](http://www.positech.co.uk/about.shtml) (Cliff Harris) | 1 | *custom engine* | [Production Line](https://store.steampowered.com/app/591370/Production_Line__Car_factory_simulation) (2019), [Democracy 3](https://store.steampowered.com/app/245470/Democracy_3) (2013), [Gratuitous Space Battles](https://store.steampowered.com/app/344840/Gratuitous_Space_Battles_2) (2015) | 
 | [Frank Lucas](https://www.angeldu.st/en) | 1 | *custom engine* | [Angeldust](https://store.steampowered.com/app/488440/Angeldust) (2019) |
 | [Zachtronics](https://en.wikipedia.org/wiki/Zachtronics) (Zach Barth) | 1 | *custom engine* | [MOLEK-SYNTEZ](https://store.steampowered.com/app/1168880/MOLEKSYNTEZ) (2019), [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS) (2018), [SHENZHEN I/O](https://store.steampowered.com/app/504210/SHENZHEN_IO) (2016), [Opus Magnum](https://store.steampowered.com/app/558990/Opus_Magnum/) (2017) |
@@ -171,6 +171,7 @@ Games developed by 1-2 people with custom game engines, engines mostly coded by 
 | Billy Basso                   | 1 | [*custom engine*](https://www.gamedeveloper.com/art/creature-feature-the-surreal-pixel-art-and-animation-of-animal-well) | [Animal Well](https://store.steampowered.com/app/813230/ANIMAL_WELL/) (2024) |
 | [Jonathan Blow](https://en.wikipedia.org/wiki/Jonathan_Blow) | 1 | *XNA-based* | [Braid](https://store.steampowered.com/app/26800/Braid) (2009) |
 | [Vittorio Romeo](https://vittorioromeo.com) | 1 | *custom engine* [1](https://github.com/SuperV1234/SSVOpenHexagon/), [2](https://github.com/vittorioromeo/VRSFML/tree/bubble_idle) | [Open Hexagon](https://store.steampowered.com/app/1358090/Open_Hexagon/) (2021), [BubbleByte](https://store.steampowered.com/app/3499760/BubbleByte/) (2025)  |
+| [Pounce Light](https://pouncelight.games) | 1 | [*Bevy-based*](https://www.eurogamer.net/digitalfoundry-2024-tiny-glade-proves-the-power-of-bespoke-game-engines-and-graphics-tech) | [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade) (2024) |
 | LocalThunk | 1 | *LÖVE-based* | [Balatro](https://www.playbalatro.com/) (2024) |
 | ThinMatrix | 1 | *custom engine* | [Equilinox](https://equilinox.com/) (2018) |
 
