@@ -92,6 +92,7 @@ Here we have some really small studios that also choose to develop a custom engi
 
 | Company  | Employees | Engine   |   Notable Games   |
 | --- | :---: | :---: | --- |
+| [Stepmania](https://en.wikipedia.org/wiki/StepMania)          | +50 | [Stepmania](https://github.com/stepmania/stepmania) | [In the Groove](https://en.wikipedia.org/wiki/In_the_Groove_(video_game)) (2004), [Pump it Up Pro](https://web.archive.org/web/20130806114114/http://www.piupro.com/) (2007), Pump it up Infinity (2013), [StepManiaX](https://stepmaniax.com/) (2017), [Project Outfox](https://projectoutfox.com/) (2018), [More](https://itgwiki.dominick.cc/en/software/stepmania-forks) |
 | [Runic Games](https://en.wikipedia.org/wiki/Runic_Games)          | ~40 | *OGRE-based* | [Hob](https://store.steampowered.com/app/404680/Hob) (2017), [Tochlight II](https://store.steampowered.com/app/200710/Torchlight_II) (2012) |
 | [Klei Entertainment](https://en.wikipedia.org/wiki/Klei_Entertainment) | 35 | *custom engine* | [Invisible, Inc.](https://store.steampowered.com/app/243970/Invisible_Inc) (2016), [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together) (2016), Shank series
 | [Shiro Games](http://shirogames.com)                              | ~30 | [Heaps.io](https://heaps.io/) | [Northgard](https://store.steampowered.com/app/466560/Northgard) (2018), [Evoland](https://store.steampowered.com/app/233470/Evoland) (2013), [Evoland II](https://store.steampowered.com/app/359310/Evoland_2) (2015) |
